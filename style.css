@@ -1,0 +1,52 @@
+body {
+  padding-top: 81px;  /* Move body of page below navbar. */
+  font-family: Average Sans;
+  src: url("http://fonts.gstatic.com/s/averagesans/v4/dnU3R-5A_43y5bIyLztPsaRDOzjiPcYnFooOUGCOsRk.woff");
+  font-style: normal;
+  font-weight: 400;
+  background-image: url("http://www.kamanucomposites.com/static/images/www/pueo-canoes-front.jpg");
+  background-size: cover;
+  background-position: center;
+  background-position: 0 81px;
+
+  height: 385px;
+  background-repeat: no-repeat;
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  padding-top:0px!important;
+  margin: 0px;
+  padding: 0px;
+  border: 0px none;
+}
+
+.navbar-fixed-top {
+  height: 81px;
+}
+
+.navbar{
+  background-image: url("http://www.kamanucomposites.com/static/images/bg-carbon.jpg");
+}
+
+.nav .active a{
+  background: none!important;
+}
+
+.nav-pic{
+  margin: 0px;
+  padding: 0px;
+  border: 0px none;
+}
+
+.page-content{
+  font-family: 'Georgia';
+  position: fixed;
+  left:400px;
+  bottom: 0;
+  background-color: black;
+}
